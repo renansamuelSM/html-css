@@ -1,0 +1,38 @@
+@charset "UTF-8";
+main {
+    width: 700;
+    padding: 10px 10px;
+    background-color: beige;
+    size: 16px;
+}
+body {
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: burlywood;
+}
+h1 {
+    color: darkblue;
+}
+
+a:visited {
+    color: crimson;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    text-decoration: underline;
+}
+a:active {
+    color: rgb(16, 219, 16);
+}
+a::after {
+    content: '[link]';
+    text-decoration: none;
+    font-weight: normal;
+    color: darkgray;
+}

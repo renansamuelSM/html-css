@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+main {
+    width: auto;
+    padding: 10px 15px;
+    border-radius: 10px;
+    margin: auto;
+    background-color: turquoise;
+    
+}
+body {
+    margin-top: 200px;
+    font: normal 16px Arial, Verdana, serif;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+h1 {
+    text-align: center;
+}
+p {
+    text-align: justify;
+    text-indent: 20px;
+}

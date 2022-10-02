@@ -1,0 +1,28 @@
+@charset "UTF-8";
+ 
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(black, lightgrey, darkgrey);
+    background-attachment: fixed;
+    font-weight: normal;
+    font-style: oblique;
+}
+
+main{
+    width: 500px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: auto;
+    background-color: cornsilk;
+    box-shadow: 10px 10px 10px grey;
+    text-decoration: underline;
+}
+h1, h2 {
+    color: darkblue;
+    font-size: 30px;
+}
+p {
+    color: chocolate;
+    font-size: 16px;
+}
+

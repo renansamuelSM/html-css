@@ -1,0 +1,13 @@
+body {
+    background-color: grey;
+}
+h1 {
+ color: blueviolet;
+}
+h2 {
+    color: rgb(187, 25, 125);
+}
+p {
+    color: darkgreen;
+    text-align: justify;
+}
